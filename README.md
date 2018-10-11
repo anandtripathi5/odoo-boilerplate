@@ -1,0 +1,2 @@
+# odoo-boilerplate
+Odoo boilerplate
